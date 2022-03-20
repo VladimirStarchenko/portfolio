@@ -8,8 +8,7 @@ function Project() {
           <div className="row">
             <div className="col-xs-12">
               <div className="section-title text-center">
-                <h3>Here are a few projects that I've worked on</h3>
-                <h2>Cemre Bakery Fresh Cakes</h2>
+                <h2>Here are a few projects that I've worked on</h2>
               </div>
             </div>
           </div>
