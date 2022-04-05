@@ -7,7 +7,11 @@ function Contact() {
         <div className="contact100-form-title container">
           <h3>Need to reach me?</h3>
           <h2>Send A Message</h2>
-          <form className="contact100-form validate-form">
+          <form
+            action="https://formsubmit.co/vladimistar@gmail.com"
+            method="POST"
+            className="contact100-form validate-form"
+          >
             <div
               className="wrap-input100 rs1-wrap-input100 validate-input"
               data-validate="Name is required"

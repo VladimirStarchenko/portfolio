@@ -9,6 +9,9 @@ function About() {
             <div className="col-md-12 col-sm-12 col-xs-12 ">
               <div className="maintext text-center">
                 <span>Hi I'm Vladimir Starchenko</span>
+
+                <img className="avatar" src="img/photo/avatar.png" />
+
                 <h2>I'm a Full Stack Web Developer</h2>
                 <p>
                   Vladimir is a leader at heart, and a practical problem solver.
@@ -36,6 +39,12 @@ function About() {
                 </p>
               </div>
             </div>
+          </div>
+
+          <div className="resume">
+            <a className="resume-btn" href="Resume.pdf">
+              Resume
+            </a>
           </div>
 
           <div className="row shapes">

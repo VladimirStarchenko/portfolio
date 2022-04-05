@@ -28,10 +28,6 @@ function Project() {
                       </a>
                       <img src="img/projects/RunBuddy.png" alt="" />
                     </div>
-                    {/* <h3 className="post-title">
-                      <a href="#">Progresso İtalian Style</a>
-                    </h3>
-                    <p className="post-description">12$</p> */}
                   </div>
 
                   <div className="post-slide">
@@ -44,37 +40,51 @@ function Project() {
 
                       <img src="img/projects/bikeHaven.png" alt="" />
                     </div>
-                    {/* <h3 className="post-title">
-                      <a href="#">Progresso İtalian Style</a>
-                    </h3>
-                    <p className="post-description">12$</p> */}
-                  </div>
-
-                  {/* <div className="post-slide">
-                    <div className="post-img">
-                      <div className="post-abs">
-                        <p>Progresso İtalian Style</p>
-                      </div>
-                      <img src="img/projects/productnew.png" alt="" />
-                    </div>
-                    <h3 className="post-title">
-                      <a href="#">Progresso İtalian Style</a>
-                    </h3>
-                    <p className="post-description">12$</p>
                   </div>
 
                   <div className="post-slide">
                     <div className="post-img">
-                      <div className="post-abs">
-                        <p>Progresso İtalian Style</p>
-                      </div>
-                      <img src="img/projects/productnew.png" alt="" />
+                      <a href="https://glacial-cliffs-90348.herokuapp.com/">
+                        <div className="post-abs">
+                          <p>Mission:Possible</p>
+                        </div>
+                      </a>
+                      <img src="img/projects/mission-possible.png" alt="" />
                     </div>
-                    <h3 className="post-title">
-                      <a href="#">Progresso İtalian Style</a>
-                    </h3>
-                    <p className="post-description">12$</p>
-                  </div> */}
+                  </div>
+
+                  <div className="post-slide">
+                    <div className="post-img">
+                      <a href="https://vladimirstarchenko.github.io/Third-Party-API-Work-Day-Scheduler/">
+                        <div className="post-abs">
+                          <p>Work-Day Scheduler</p>
+                        </div>
+                      </a>
+                      <img src="img/projects/scheduler.png" alt="" />
+                    </div>
+                  </div>
+
+                  <div className="post-slide">
+                    <div className="post-img">
+                      <a href="https://vladimirstarchenko.github.io/Server-Side-API-Weather-Dashboard/">
+                        <div className="post-abs">
+                          <p>Weather Dashboard</p>
+                        </div>
+                      </a>
+                      <img src="img/projects/weather.png" alt="" />
+                    </div>
+                  </div>
+
+                  <div className="post-slide">
+                    <div className="post-img">
+                      <a href="https://github.com/VladimirStarchenko/techzette">
+                        <div className="post-abs">
+                          <p>Techzette</p>
+                        </div>
+                      </a>
+                      <img src="img/projects/techzette.png" alt="" />
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
