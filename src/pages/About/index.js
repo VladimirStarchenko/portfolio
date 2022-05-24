@@ -14,28 +14,7 @@ function About() {
 
                 <h2>I'm a Full Stack Web Developer</h2>
                 <p>
-                  Vladimir is a leader at heart, and a practical problem solver.
-                  Always the first to admit if he makes a mistake one of his
-                  great qualities is the ability to reassess and solve it.
-                  Through strenuous effort Vladimir has developed solid
-                  fundamental understanding in front end technologies such as
-                  Javascript, HTML and CSS as well as backend technologies such
-                  as the MERN stack and React JS. Utilizing online resources
-                  such as Udemy’s javascript and web development courses as well
-                  as Youtube’s in depth tutorials, Vladimir has strengthened his
-                  core fundamentals of the full stack processes. Using full
-                  stack development, Vladimir can fully build a functioning web
-                  application from a blank slate. Incorporating offline
-                  functionality and useful client side features, Vladimir is an
-                  asset within any team or individual setting. Learning
-                  continues to be a major factor to Vladimir’s continual
-                  progression and enthusiasm towards web development. An honors
-                  student throughout High School and his year in college he’s
-                  overcome learning obstacles. Such enthusiasm was demonstrated
-                  throughout collective group projects such as an e-commerce
-                  bike website for enthusiasts alike to build and find dream
-                  bikes. Made possible using handlebars.js, express.js and agile
-                  development.
+                 Vladimir is a leader at heart, and a practical problem solver. Always the first to admit if he makes a mistake, one of his great qualities is the ability to reassess and solve it. Through strenuous effort Vladimir has developed solid fundamental understanding in front end technologies such as Javascript, HTML and CSS as well as backend technologies such as the MERN stack and React JS. Utilizing online resources such as Udemy’s javascript and web development  courses, Vladimir has strengthened his core fundamentals of the full stack processes earning a certificate in full stack web development from the University of Toronto. Vladimir can fully build a functioning web application from a blank slate. Incorporating offline functionality and useful client side features, Vladimir is an asset within any team or individual setting. An honors student throughout High School and his year in college he’s overcome many obstacles. Learning continues to be a major factor to Vladimir’s continual progression and enthusiasm towards web development. 
                 </p>
               </div>
             </div>
